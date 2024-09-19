@@ -1,0 +1,38 @@
+.not-found-container-dark {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #000000;
+  width: 100%;
+}
+.not-found-container-light {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  flex-direction: column;
+  background-color: white;
+  width: 100%;
+}
+.not-found-page-text-light {
+  color: #000000;
+  font-size: 55px;
+}
+.not-found-page-text-dark {
+  color: #ffffff;
+  font-size: 55px;
+}
+.not-found-image-style {
+  width: 370px;
+  height: 370px;
+}
+.not-found-page-para-text-light {
+  color: #000000;
+  font-size: 25px;
+}
+.not-found-page-para-text-dark {
+  color: #ffffff;
+  font-size: 25px;
+}

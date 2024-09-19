@@ -1,0 +1,30 @@
+.about-container-dark {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #000000;
+  width: 100%;
+}
+.about-container-light {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  flex-direction: column;
+  background-color: white;
+  width: 100%;
+}
+.about-page-text-light {
+  color: #000000;
+  font-size: 55px;
+}
+.about-page-text-dark {
+  color: #ffffff;
+  font-size: 55px;
+}
+.about-image-style {
+  width: 170px;
+  height: 170px;
+}
